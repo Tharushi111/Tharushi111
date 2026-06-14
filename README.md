@@ -101,13 +101,6 @@ Always exploring new technologies and continuously improving development practic
 
 ---
 
-## Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tharushi111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
 # GitHub Metrics
 
 <p align="center">
