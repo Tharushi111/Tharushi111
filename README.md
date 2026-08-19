@@ -29,7 +29,7 @@ Always exploring new technologies and continuously improving development practic
 
 # Current Focus
 
-- Building full stack applications using MERN stack and Spring Boot  
+- Building full stack applications using Angular and ASP.NET 
 - Improving problem solving and algorithmic thinking
 
 ---
