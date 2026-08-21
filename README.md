@@ -58,12 +58,13 @@ Always exploring new technologies and continuously improving development practic
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
 </p>
 
 ### Tools and Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,androidstudio,visualstudio"/>
 </p>
 
 ---
