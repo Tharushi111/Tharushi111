@@ -39,19 +39,19 @@ Always exploring new technologies and continuously improving development practic
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,js,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,cs,c,cpp"/>
 </p>
 
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,angular"/>
 </p>
 
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,spring,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,express,dotnet"/>
 </p>
 
 ### Databases
