@@ -133,9 +133,10 @@ it is about creating experiences that people enjoy using.”
 
 ---
 
-# Contact
+# Let's Connect
 
-<p align="center">
+<div align="center">
+
 <a href="mailto:tharushiparanagama1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -147,11 +148,12 @@ it is about creating experiences that people enjoy using.”
 <a href="https://github.com/tharushi111">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
-<p align="center">
+</div>
+
+<div align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</p>
+</div>
 
 ---
 
