@@ -2,6 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Tharushi+Paranagama;Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;IT+Undergraduate+at+SLIIT+%F0%9F%8E%93;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
+
 <br/>
 
 👩‍💻 Full-Stack Developer • 🎨 UI/UX Enthusiast • 🎓 IT Undergraduate
