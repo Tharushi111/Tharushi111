@@ -151,6 +151,8 @@ it is about creating experiences that people enjoy using.”
 
 </div>
 
+---
+
 <div align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </div>
@@ -161,7 +163,7 @@ it is about creating experiences that people enjoy using.”
 
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it's bad."</em><br/>
-  <strong>— Cory House</strong>
+  <strong>Cory House</strong>
 </p>
 
 <br>
