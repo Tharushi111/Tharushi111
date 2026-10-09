@@ -86,14 +86,6 @@ Always exploring new technologies and continuously improving development practic
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharushi111&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
