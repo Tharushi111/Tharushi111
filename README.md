@@ -43,7 +43,11 @@ Always exploring new technologies and continuously improving development practic
 
 # Current Focus
 
-- Building full stack applications using Angular and ASP.NET 
+- Building full-stack applications with Angular and ASP.NET Core
+- Working with React and modern frontend technologies
+- Improving Data Structures, Algorithms and Problem Solving
+- Designing clean and user-friendly UI/UX experiences
+- Continuously exploring new technologies
 - Improving problem solving and algorithmic thinking
 
 ---
@@ -86,6 +90,19 @@ Always exploring new technologies and continuously improving development practic
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500"/>
 </p>
+
+### Developer Mindset
+
+<div align="center">
+
+“Great software is not only about making things work.
+it is about creating experiences that people enjoy using.”
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+
+</div>
 
 ---
 
